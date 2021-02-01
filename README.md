@@ -62,6 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://portfoliors.netlify.app)
-- GitHub [@your-username](https://github.com/reetsrivastava)
-- Twitter [@your-twitter](https://twitter.com/hellreet46)
+- Website [portfoliors](https://portfoliors.netlify.app)
+- GitHub [@reetsrivastava](https://github.com/reetsrivastava)
+- Twitter [@hellreet46](https://twitter.com/hellreet46)
